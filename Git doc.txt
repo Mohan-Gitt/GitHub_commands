@@ -10,5 +10,9 @@
 # git remote add origin https://github.com/Mohan-Gitt/Git_commands.git 
 # git branch -M main
 # git push -u origin main
+<<<<<<< HEAD:Git doc.txt
 =======
 # GitHub_commands
+=======
+#
+>>>>>>> 013edda19057dcec4275e140d4c9eed4fd9ca22e:README.md
