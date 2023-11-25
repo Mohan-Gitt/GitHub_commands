@@ -1,0 +1,15 @@
+    Git Commands
+--------------------
+git init -> initialize a repository
+git add . -> add all the files including a directory
+git add filename -> add particular file
+git commit -m "commit message" -> commit the changes
+
+git remote add origin GIT_SSH_URL -> add a git git repository/Origin URL
+git remote -v -> shoukd be shows the Fetch and Push URL of the origin
+git checkout -b branch_name -> create new branch
+git push -u origin branch_name -> push the latest changes to Git
+
+Goto -> Master branch -> Merge branch with main/Master commands
+git merge branch_name 
+git push origin
