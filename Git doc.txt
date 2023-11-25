@@ -1,18 +1,9 @@
-# Git_commands
+-- 2nd time onwards--
 
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git branch -M main
-# git remote add origin https://github.com/Mohan-Gitt/Git_commands.git
-# git push -u origin main
-
-# git remote add origin https://github.com/Mohan-Gitt/Git_commands.git 
-# git branch -M main
-# git push -u origin main
-<<<<<<< HEAD:Git doc.txt
-=======
-# GitHub_commands
-=======
-#
->>>>>>> 013edda19057dcec4275e140d4c9eed4fd9ca22e:README.md
+git add . -> add all the files including a directory
+git add filename -> add particular file
+git commit -m "commit message" -> commit the changes
+git remote -v -> shoukd be shows the Fetch and Push URL of the originit
+git checkout -b branch_name -> create new branch
+git push -u origin branch_name -> push the latest changes to Git
+git merge branch_name.
